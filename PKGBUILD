@@ -1,5 +1,5 @@
 pkgname=julia-stable
-pkgver=1.0.0
+pkgver=0.6.4
 pkgrel=1
 pkgdesc='The Julia Language: A fresh approach to technical computing.'
 arch=('x86_64')
